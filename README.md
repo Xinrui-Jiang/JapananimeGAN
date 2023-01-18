@@ -1,6 +1,8 @@
 # JapananimeGAN
 This is built for Harvard Summer School project, and the model referred to some ideas of former tasks such cartoonGAN
 
+video: https://youtu.be/qI6-yKWISo0
+
 Abstract
 
 In this project, I try to solve such a kind of problem: given a set of real-world images, together 
